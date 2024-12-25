@@ -13,8 +13,8 @@ This project is a Node.js application using Express and Sequelize, designed to r
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone -b beanstalk1 https://github.com/diorizqi404/aws-practice.git
+cd aws-practice
 ```
 
 ### 2. Install dependencies
@@ -37,4 +37,5 @@ NODE_ENV=development or production
 ### 4. Start the application
 
 ```sh
-
+npm run start:dev
+```
